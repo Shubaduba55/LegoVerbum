@@ -1,8 +1,8 @@
-# LangDict App TODO List
+# LegoVerbum App TODO List
 
 
 ## Architecture
-- [ ] Design database
+- [*] Design database
 
 ## Features to Implement
 - [ ] Implement text analysis using MeCab
@@ -21,6 +21,7 @@
 
 
 ## Documentation
+- [ ] Create User Story Map
 - [ ] Create developer guide
 
 ## Testing
