@@ -5,9 +5,9 @@
 LegoVerbum's Database presumably will consinst of 2 parts: LegoVerbum's functionality DB (FDB) and Referential Translations and Meanings DB (RTMDB).
 
 ## Functionality DB
-This is part describes a core structure of the application through DB. The RTMDB should be connected to this one. 
+This part describes a core structure of the application through DB. The RTMDB should be connected to this Functionality DB. 
 
-Right now I have a vague vision of how User can interact with the app. Basically, when LegoVerbum is launched, the User is presented with 2 Tabs: Sources and Dictionaries. The first one let's User create custom Tabs for different Sources (for instance, we can create Tab "Music", where we add 2 Sources: "Nirvana - Drain You" and "Mai Yamane - The Real Folk Blues". For each of them we add lyrics, that we may use to study English and Japanese. Note that the app is also intented to have the ability to combine multiple languages in one source). The second one let's User look at Dictionaries. I will expand on the functionalities further in the doc. 
+Right now I have a vague vision of how User can interact with the app. Basically, when LegoVerbum is launched, the User is presented with 2 Tabs: Sources and Dictionaries. The first one lets User create custom Tabs for different Sources (for instance, we can create Tab "Music", where we add 2 Sources: "Nirvana - Drain You" and "Mai Yamane - The Real Folk Blues". For each of them we add References(lyrics), that we may use to study English and Japanese. Note that the app is also intented to have the ability to combine multiple languages in one source). The second one lets User look at Dictionaries. I will expand on the functionalities further in the doc. 
 
 
 ### Entities and their description
