@@ -2,7 +2,7 @@
 
 
 ## Architecture
-- [*] Design database
+- [x] Design database
 
 ## Features to Implement
 - [ ] Implement text analysis using MeCab
