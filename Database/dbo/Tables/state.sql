@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[state]
+(
+	[id] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	[name] NVARCHAR(20) NOT NULL,
+	[description] NVARCHAR(100) NULL,
+	[author] VARCHAR(20) NOT NULL
+)
